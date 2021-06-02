@@ -1,6 +1,6 @@
-# BlogApp
+# Favorite Places
 
-A website to create and share blogposts.
+A website to share about your Favorite Places to the world And know about more places from posts of other users.
 
 ## Tools/Technologies used
 Node.js, Express.js, MongoDB, HTML, CSS, JavaScript, BootStrap
@@ -12,9 +12,12 @@ Node.js, Express.js, MongoDB, HTML, CSS, JavaScript, BootStrap
 
 ## Snapshots
 
-![Home page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-05-28%20at%202.51.03%20PM.png?raw=true)
-![New Post Page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-05-28%20at%202.51.26%20PM.png?raw=true)
-![login page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-05-28%20at%202.51.47%20PM.png?raw=true)
-![signup page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-05-28%20at%202.52.14%20PM.png?raw=true)
+![Home page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-06-02%20at%205.00.14%20PM.png?raw=true)
+![Home page2](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-06-02%20at%205.01.44%20PM.png?raw=true)
+![place1](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-06-02%20at%205.02.00%20PM.png?raw=true)
+![place2](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-06-02%20at%205.02.20%20PM.png?raw=true)
+![New Post Page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-06-02%20at%205.02.38%20PM.png?raw=true)
+![login page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-06-02%20at%205.00.26%20PM.png?raw=true)
+![signup page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-06-02%20at%205.00.56%20PM.png?raw=true)
 
 

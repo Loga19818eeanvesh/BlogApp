@@ -14,8 +14,8 @@
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="site-heading">
-            <h1>Clean Blog</h1>
-            <span class="subheading">Super responsive blog app</span>
+            <h1>Favorite Places</h1>
+            <span class="subheading">Share your Favorite Places</span>
           </div>
         </div>
       </div>
@@ -32,9 +32,9 @@
 <%= blogposts[i].title %>
 </h2>
 <h3 class="post-subtitle">
-<%= blogposts[i].body %>
+<%= blogposts[i].address %>
 </h3> </a>
-<p class="post-meta">Posted by
+<p class="post-meta">Shared by
 <a href="#"><%= blogposts[i].userid.username %></a> on  <%= blogposts[i].datePosted.toDateString() %></p>
 </div>
 <hr>

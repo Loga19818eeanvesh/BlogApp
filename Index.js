@@ -81,6 +81,6 @@ mongoose
     "mongodb+srv://TweetAppUser:TweetAppPassword@tweetappcluster.xhtqi.mongodb.net/BlogAppDB?retryWrites=true&w=majority"
   )
   .then(result => {
-    app.listen(8080);
+    app.listen(2828);
   })
   .catch(err => console.log(err));

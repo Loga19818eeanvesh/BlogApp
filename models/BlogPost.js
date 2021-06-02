@@ -6,6 +6,7 @@ const BlogPostSchema = new Schema(
   {
     title: String,
     body: String,
+    address: String,
     userid: {
         type: mongoose.Schema.Types.ObjectId,
         ref: 'User',
